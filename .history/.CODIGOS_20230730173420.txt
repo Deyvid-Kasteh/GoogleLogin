@@ -1,0 +1,10 @@
+Projeto Feito com ajuda do video no youtube, Link: https://www.youtube.com/watch?v=LSuLv9Iu2Io
+
+
+
+
+eas login
+
+eas build:configure
+
+eas credentials

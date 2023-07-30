@@ -1,0 +1,10 @@
+Projeto Feito com ajuda do video no youtube
+
+
+
+
+eas login
+
+eas build:configure
+
+eas credentials

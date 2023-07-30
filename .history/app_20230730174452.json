@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "googleServicesFile": "./GoogleService-Info.plist"
@@ -31,7 +33,6 @@
       "eas": {
         "projectId": "ee699cd4-c35f-46c0-8895-194f95bf4e41"
       }
-    },
-    "plugins": ["@react-native-google-signin/google-signin"]
+    }
   }
 }

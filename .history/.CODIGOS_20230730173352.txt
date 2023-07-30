@@ -1,0 +1,10 @@
+Projeto
+
+
+
+
+eas login
+
+eas build:configure
+
+eas credentials

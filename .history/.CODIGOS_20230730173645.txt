@@ -1,0 +1,13 @@
+Projeto Feito com ajuda do video no youtube, Link: https://www.youtube.com/watch?v=LSuLv9Iu2Io
+
+
+
+
+eas login
+
+eas build:configure
+
+eas credentials
+
+
+ID do cliente653357165851-rhv1ou0miesjv3h2aii15apm0dkipk69.apps.googleusercontent.com

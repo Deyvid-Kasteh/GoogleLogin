@@ -11,18 +11,18 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": true,
-      "googleServicesFile": "./GoogleService-Info.plist"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.auth.GoogleLogin",
-      "googleServicesFile": "./google-services.json"
+      "package": "com.auth.GoogleLogin"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,7 +31,6 @@
       "eas": {
         "projectId": "ee699cd4-c35f-46c0-8895-194f95bf4e41"
       }
-    },
-    "plugins": ["@react-native-google-signin/google-signin"]
+    }
   }
 }
